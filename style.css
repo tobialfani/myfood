@@ -51,6 +51,7 @@
 }
 .food{
     border: 1px solid darksalmon;
+    cursor:pointer;
 }
 .food:hover{
     opacity: .9;
